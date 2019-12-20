@@ -14,7 +14,7 @@ package Server {
         -PrintWriter player2
         -ServerParser parser
         -Game game
-        CombinedGame sheredGame
+        CombinedGame sharedGame
 
         #connect(Socket socket)
         #readInput()
